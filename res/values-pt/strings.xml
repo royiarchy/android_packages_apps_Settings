@@ -1830,4 +1830,14 @@
     <string name="user_picture_title" msgid="7297782792000291692">"ID de foto"</string>
     <string name="cell_broadcast_settings" msgid="8415582011920085222">"Transmissões por celular"</string>
     <string name="cell_broadcast_settings_summary" msgid="3301339398950905913">"Selecione os tipos de alertas de emergência a exibir."</string>
+
+     <!-- HALO -->
+    <string name="halo_hide_title">Ocultar HALO após ativdade</string>
+    <string name="halo_hide_summary">O HALO vai aparecer para novas tarefas e sair do campo de visão após um tempo</string>
+    <string name="halo_reversed_title">Inverter gesturas do HALO</string>
+    <string name="halo_reversed_summary">Aplica tarefas ou arrasto a gestura swipe-de-toque-duplo</string>
+    <string name="halo_state_title">Política do HALO</string>
+    <string name="halo_state_summary">Para notificações de lista negra/branca pulando no HALO</string>
+    <string name="halo_state_black">Lista Negra</string>
+    <string name="halo_state_white">Lista Branca</string>
 </resources>
