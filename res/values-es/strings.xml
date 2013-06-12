@@ -1830,4 +1830,17 @@
     <string name="user_picture_title" msgid="7297782792000291692">"ID de foto"</string>
     <string name="cell_broadcast_settings" msgid="8415582011920085222">"Difusiones móviles"</string>
     <string name="cell_broadcast_settings_summary" msgid="3301339398950905913">"Selecciona los tipos de alertas de emergencia que quieres ver."</string>
+
+    <!-- HALO -->
+    <string name="halo_settings_title">Notificaciones HALO</string>
+    <string name="halo_hide_title">Ocultar HALO tras la actividad</string>
+    <string name="halo_hide_summary">HALO aparecerá para tareas entrantes y se desplazará fuera de vista después de un rato</string>
+    <string name="halo_reversed_title">Revertir gestos de HALO</string>
+    <string name="halo_reversed_summary">Aplica tareas o arrastrar al gesto de la doble pulsación</string>
+    <string name="halo_state_title">Política de HALO</string>
+    <string name="halo_state_summary">Para notificiaciones en lista negra/blanca a través de la aplicación de HALO</string>
+    <string name="halo_state_black">Lista negra</string>
+    <string name="halo_state_white">Lista blanca</string>
+    <string name="app_halo_label_black">Lista negra de notificaciones HALO</string>
+    <string name="app_halo_label_white">Lista blanca de notificaciones HALO</string>
 </resources>
