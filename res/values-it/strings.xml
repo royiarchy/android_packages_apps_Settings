@@ -1830,4 +1830,17 @@
     <string name="user_picture_title" msgid="7297782792000291692">"ID foto"</string>
     <string name="cell_broadcast_settings" msgid="8415582011920085222">"Cell broadcast"</string>
     <string name="cell_broadcast_settings_summary" msgid="3301339398950905913">"Seleziona i tipi di avvisi di emergenza da visualizzare."</string>
+
+    <!-- HALO -->
+    <string name="halo_settings_title">HALO</string>
+    <string name="halo_hide_title">Nascondi HALO dopo un\'attività</string>
+    <string name="halo_hide_summary">HALO apparirà alla ricezione di una notifica e verrà nascosto dopo un pò</string>
+    <string name="halo_reversed_title">Inverti HALO</string>
+    <string name="halo_reversed_summary">Si applica per navigare tra le notifiche e per i gesti di movimento</string>
+    <string name="halo_state_title">Politica di HALO</string>
+    <string name="halo_state_summary">Abilita una lista nera/bianca per le notifiche considerate</string>
+    <string name="halo_state_black">Lista nera</string>
+    <string name="halo_state_white">Lista bianca</string>
+    <string name="halo_pause_title">Metti in pausa l\'app corrente</string>
+    <string name="halo_pause_summary">Quando apri un\'app con HALO l\'applicazione sottostante viene messa in pausa</string>
 </resources>
